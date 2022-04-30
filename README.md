@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+- 😄 Pronouns: She/her
+- 🔭 I’m currently working on [this slack bot](https://github.com/chaoss/chaoss-slack-bot) for [CHAOSS community](https://chaoss.community/)
+- 🌱 Upskilling at [Alt School](https://altschoolafrica.com/)
+- 📝 I write sometimes at [dev-in-transit](https://preciousabubakar.hashnode.dev/)
+- 📫 How to reach me: <a href="mailto:preciousdanabubakar@gmail.com">Send an email<a/>
+- ⚡ Fun fact: The world's first programmer was a woman called [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
 
-<!--
-**misspee007/misspee007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+#### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=misspee007&hide=stars&count_private=true&show_icons=true&theme=vue" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misspee007&hide=html&layout=compact" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [![precious's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=misspee007)](https://github.com/anuraghazra/github-readme-stats) -->
