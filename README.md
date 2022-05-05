@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: She/her
-- 🔭 I’m currently working on [this slack bot](https://github.com/chaoss/chaoss-slack-bot) for [CHAOSS community](https://chaoss.community/)
+- 🔭 I’m currently building and documenting [this slack bot](https://github.com/chaoss/chaoss-slack-bot) for [CHAOSS community](https://chaoss.community/)
 - 🌱 Upskilling at [Alt School](https://altschoolafrica.com/)
 - 📝 I write sometimes at [dev-in-transit](https://preciousabubakar.hashnode.dev/)
 - 📫 How to reach me: <a href="mailto:preciousdanabubakar@gmail.com">Send an email<a/>
