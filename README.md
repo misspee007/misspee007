@@ -14,7 +14,8 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misspee007&hide=html&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misspee007&layout=compact" />
+<!--  &hide=html -->
 </a>
 
 [![precious's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=misspee007&v=2)](https://github.com/anuraghazra/github-readme-stats)
