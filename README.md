@@ -3,6 +3,7 @@
 - 😄 Pronouns: She/her
 - 🔭 I’m currently building and documenting [this slack bot](https://github.com/chaoss/chaoss-slack-bot) for [CHAOSS community](https://chaoss.community/)
 - 🌱 Upskilling at [Alt School](https://altschoolafrica.com/)
+- 🌱 Learning Python 
 - 📝 I write sometimes at [dev-in-transit](https://preciousabubakar.hashnode.dev/)
 - 📫 How to reach me: <a href="mailto:preciousdanabubakar@gmail.com">Send an email<a/>
 - ⚡ Fun fact: The world's first programmer was a woman called [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
