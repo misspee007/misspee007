@@ -21,13 +21,13 @@ I'm a Software Engineer and Writer passionate about sharing knowledge, documenta
 - ⚡ Fun fact: The world's first programmer was a woman called [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
  
 #### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=misspee007&hide=stars&count_private=true&show_icons=true&theme=vue" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misspee007&layout=compact" />
-<!--  &hide=html -->
-</a>
+&hide=html
+</a> -->
 
 [![precious's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=misspee007&v=2)](https://github.com/anuraghazra/github-readme-stats)
