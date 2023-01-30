@@ -13,9 +13,8 @@ I'm a Software Engineer and Writer passionate about sharing knowledge, documenta
 
 - 😄 Pronouns: She/her
 - 👩🏽‍💻 Stack: MERN(MongoDb, Express, React, Node), SQL.
-- 🔭 I’m currently building and documenting [this bot](https://github.com/chaoss/chaoss-slack-bot) for [CHAOSS community](https://chaoss.community/)
-- 🌱 Learning NodeJs at [Alt School](https://altschoolafrica.com/)
-- 📝 I write sometimes at [blog.thepda.tech](https://blog.thepda.tech/)
+- 🔭 I’m currently working on [StudyBuddyV1](https://github.com/StudyBuddyv1/studybuddyv1-backend)
+- 📝 I write sometimes at [blog.thepda.tech](https://blog.thepda.tech/) and [dev.to/pda](https://dev.to/pda)
 - 🥰 Hobbies: Using various art forms(music, literature, etc) as mediums to escape reality.
 - 📫 How to reach me: <a href="mailto:preciousdanabubakar@gmail.com">preciousdanabubakar@gmail.com<a/>
 - ⚡ Fun fact: The world's first programmer was a woman called [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
