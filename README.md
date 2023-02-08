@@ -7,13 +7,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-@_pdan-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_pdan)](https://twitter.com/_pdan)
 --->
 
-I'm a Software Engineer and Writer passionate about sharing knowledge, documentation, web engineering, health tech solutions, DEI and others. I create content on my [Blog](https://blog.thepda.tech), contribute to [open-source projects](https://github.com/chaoss/chaoss-slack-bot), center divs, ...
+I'm a Software Engineer and Writer passionate about sharing knowledge, health tech solutions and DEI, amongst other things. I create content on my [Blog](https://blog.thepda.tech), contribute to [open-source projects](https://github.com/chaoss/chaoss-slack-bot) and center divs occasionally...
 
 **Here's a quick summary about me**:
 
 - 😄 Pronouns: She/her
 - 👩🏽‍💻 Stack: MERN(MongoDb, Express, React, Node), SQL.
-- 🔭 I’m currently working on [StudyBuddyV1](https://github.com/StudyBuddyv1/studybuddyv1-backend)
+- 🔭 I’m currently hacking on [StudyBuddyV1](https://github.com/StudyBuddyv1/studybuddyv1-backend)
 - 📝 I write sometimes at [blog.thepda.tech](https://blog.thepda.tech/) and [dev.to/pda](https://dev.to/pda)
 - 🥰 Hobbies: Using various art forms(music, literature, etc) as mediums to escape reality.
 - 📫 How to reach me: <a href="mailto:preciousdanabubakar@gmail.com">preciousdanabubakar@gmail.com<a/>
