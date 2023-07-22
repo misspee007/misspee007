@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/-thepda.tech-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://thepda.tech)](https://thepda.tech) 
 --->
 
-I'm a Software Engineer who enjoys writing accessible articles and documentation for beginners. I create content on my [blog](https://blog.thepda.tech), contribute to [open-source projects](https://github.com/chaoss/chaoss-slack-bot) and build cool stuff with JavaScript, HTML and CSS...
+I'm a Software Engineer who enjoys writing accessible articles and documentation for beginners. I create content on my [blog](https://blog.thepda.tech), contribute to [open-source](https://github.com/chaoss) and build cool stuff with JavaScript, HTML and CSS...
 
 **Here's a quick summary about me**:
 
