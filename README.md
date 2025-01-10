@@ -13,8 +13,8 @@ I'm a Software Engineer who enjoys writing accessible articles and documentation
 
 - 😄 Pronouns: She/her
 - 👩🏽‍💻 Stack: MERN(MongoDb, Express, React, Node), SQL.
-- 🔭 I’m currently hacking on [AltCamp](https://github.com/AltCamp/altcampv1-backend)
-- 📝 I write sometimes for [Dev-in-Transit](https://blog.thepda.tech/) and [Nur: The SheCodeAfrica Blog](https://medium.com/shecodeafrica)
+- 🔭 I’m currently hacking at [CHAOSS](https://github.com/chaoss/chaoss-slack-bot)
+- 📝 I write at [preciousdanabubakar.medium.com](https://preciousdanabubakar.medium.com) and [Nur: The SheCodeAfrica Blog](https://medium.com/shecodeafrica)
 - 🥰 Hobbies: Using various art forms(music, literature, etc) as mediums to escape reality.
 - 📫 How to reach me: <a href="mailto:preciousdanabubakar@gmail.com">preciousdanabubakar@gmail.com<a/>
 - ⚡ Fun fact: The world's first programmer was a woman called [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
